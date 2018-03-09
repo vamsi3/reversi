@@ -2,7 +2,7 @@
 
 > This project is a Reversi (Othello) board game written in Racket language.
 
-You may want to check out the [Proposed Project](proposed_project.pdf) file for more details. It was made as a final project of the CS152 (Abstractions and Paradigms in Programming - Lab) course at IIT Bombay.
+You may want to check out the [Proposed Project](proposed_project.pdf) file for more details. It was made as a final project of the CS154 (Abstractions and Paradigms in Programming - Lab) course at IIT Bombay.
 
 ## Getting Started
 
@@ -18,9 +18,11 @@ Follow the instructions below to get our project running on your local machine.
 * Racket - Install Racket from the [official website](https://racket-lang.org/).
 * RSound - Install the RSound package using the `raco pkg install rsound` command.
 
-## Sample Screenshots
+## Screenshots
 
-_- To be updated -_
+![Home page screenshot](screenshots/home.png)			|  ![Gameplay screenshot](screenshots/game.png)
+:------------------------------------------------------:|:------------------------------------------------------:
+![Settings page screenshot](screenshots/settings.png)	|  ![Credits page screenshot](screenshots/credits.png)
 
 ## Authors
 
